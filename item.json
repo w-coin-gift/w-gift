@@ -1,0 +1,14 @@
+{
+  "name": "W-COIN Gift Ticket",
+  "description": "Congratulations! You've received an exclusive W-COIN Gift Ticket, created to reward our most loyal users. Don't miss out—visit the W-Gift Bot now at https://t.me/wcoin_giftbot and claim your special gift. Be part of the W-Coin journey and unlock your rewards today!",
+  "attributes": [
+    {
+      "trait_type": "Campaign",
+      "value": "W-Gift"
+    },
+    {
+      "trait_type": "Verified",
+      "value": true
+    }
+  ]
+}
